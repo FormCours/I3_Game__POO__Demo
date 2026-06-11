@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Demo_POO__Contructeur\Demo_POO__Contructeur.csproj" />
     <ProjectReference Include="..\Demo_POO__Props_Indexeur\Demo_POO__Props_Indexeur.csproj" />
   </ItemGroup>
 
