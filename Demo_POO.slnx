@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Demo_POO_UI/Demo_POO_UI.csproj" />
+  <Project Path="Demo_POO__Abstract/Demo_POO__Abstract.csproj" Id="a813f3c1-3933-436c-8f89-d587a82273d7" />
   <Project Path="Demo_POO__Contructeur/Demo_POO__Contructeur.csproj" Id="1c027cef-0028-4fd4-81e4-a14fd74fb4d2" />
   <Project Path="Demo_POO__Heritage/Demo_POO__Heritage.csproj" />
   <Project Path="Demo_POO__Props_Indexeur/Demo_POO__Props_Indexeur.csproj" />
